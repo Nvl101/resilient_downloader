@@ -1,0 +1,1 @@
+'''core resilient download method'''
